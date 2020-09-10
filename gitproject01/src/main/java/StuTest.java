@@ -4,6 +4,8 @@ public class StuTest {
 
         System.out.println("hellow Stu");
         System.out.println("hellow java");
+
+        System.out.println("hellow git");
     }
 
     public static void main(String[] args) {
