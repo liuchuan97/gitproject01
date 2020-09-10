@@ -1,6 +1,6 @@
 public class StuTest {
 
-    public void helloStu(){
+    public void helloStu() {
 
         System.out.println("hellow Stu");
     }
